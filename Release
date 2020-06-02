@@ -1,0 +1,8 @@
+Origin: Temis Design Repo
+Label: Temis Design Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Temis Design Repo - UI changes
